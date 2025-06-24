@@ -16,4 +16,4 @@ spec:
       - name: springboot-app
         image: yourdockerhub/springboot-app:latest
         ports:
-        - containerPort: 8081
+        - containerPort: 8082
